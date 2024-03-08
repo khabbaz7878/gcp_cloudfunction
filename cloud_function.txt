@@ -1,6 +1,3 @@
 #repo for cloud function testing
-
-
-
 #adding additional comment to push to slack
-#examfeb2024 trigger test
+examfeb2024 trigger test
